@@ -3,7 +3,7 @@ MAINTAINER Justin Garrison <justinleegarrison@gmail.com>
 
 # Install CoffeeScript, Hubot
 RUN \
-  npm install -g coffee-script hubot yo generator-hubot && \
+  npm install -g coffee-script hubot yo generator-hubot hubot-telegram && \
   rm -rf /var/lib/apt/lists/*
 
 # make user for bot

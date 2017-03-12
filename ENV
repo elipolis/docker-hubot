@@ -1,10 +1,15 @@
-# SLACK adapter options
-HUBOT_ADAPTER=slack
+# Hutbot OPTIONS
+HUBOT_ADAPTER=telegram
 HUBOT_OWNER=hubot
 HUBOT_NAME=hubot
 HUBOT_DESCRIPTION=Just a friendly robot
+
+# SLACK adapter options
 HUBOT_SLACK_TOKEN=
 
 # IRC adapter options
 
 # CAMPFIRE adapter options
+
+# Telegram adapter options
+TELEGRAM_TOKEN=265983919:AAHzTtcFnePv31TfwjeU5UfN-E52ztlUlXI
